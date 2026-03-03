@@ -1,0 +1,5 @@
+{
+  "name": "Habit Tracker",
+  "description": "A modern, mobile-first habit tracking application featuring dark mode, local storage persistence, and progress analytics.",
+  "requestFramePermissions": []
+}
